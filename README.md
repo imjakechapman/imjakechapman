@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- SFE @newengen
-- Currently working on @useshotdrop
+- Senior Software Engineer @Opendoor
+- Currently working on @useshotdrop when I can.
 - @imjakechapman on all the thingz
