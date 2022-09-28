@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- Senior Software Engineer @Opendoor
-- Currently working on @useshotdrop when I can.
+- Lead Design System Engineer @[redacted]
+- Currently working on Skidmark Sauces (Hot sauce company)
 - @imjakechapman on all the thingz
