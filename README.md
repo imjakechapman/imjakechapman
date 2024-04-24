@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- Lead Design System Engineer @[redacted]
-- Currently working on Skidmark Sauces (Hot sauce company)
+- UI Engineer @[redacted]
+- Running instagram.com/taqueria.gueros on the weekends
 - @imjakechapman on all the thingz
